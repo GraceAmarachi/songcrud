@@ -1,0 +1,6 @@
+python 3.8.12
+django 3.2.13
+secrets.token_urlsafe(32)
+
+
+https://github.com/c/songcrud.git
